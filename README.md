@@ -1,6 +1,7 @@
 ### Olá meu nome é Marcelo e eu desenvolvo jogos e projetos.
 
 
+
 <div align="center">
   <a href="https://github.com/celitos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=celitos&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
@@ -9,8 +10,7 @@
   
   
 
-  
- <img align="center" alt="celitos-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="celitos-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="celitos-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="celitos-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="celitos-MYSQL" height="40" width "40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
@@ -23,7 +23,6 @@
   ##
 
      
- 
 ###  
    <div> 
   <a href = "mailto:celobl12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
