@@ -1,9 +1,14 @@
 ### Hi, this is my gym that I practice some languages studied :)
    <img align="left" alt="celitos-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="left" alt="celitos-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="left" alt="celitos-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="left" alt="celitos-MYSQL" height="40" width "40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+ 
+<img align="left" alt="celitos-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ 
+<img align="left" alt="celitos-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+<img align="left" alt="celitos-MYSQL" height="40" width "40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+
  <img align="left" alt="celitos-PyCharm" height="40" width "40" <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg"> 
+
  <img align="left" alt="celitos-MYSQL" height="40" width "40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   
  
